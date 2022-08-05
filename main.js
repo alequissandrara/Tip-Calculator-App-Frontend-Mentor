@@ -83,8 +83,8 @@ cinquenta.addEventListener("click",function(){
     }
 })
 
-/*Botão Custom: foi add um evento que ao clicar enter 
-retorna o valor da porcentagem digitada do usuario*/ 
+/*Input Custom: foi add um evento que ao clicar enter na pág.
+retorna o valor da porcentagem digitada do usuário*/ 
 document.addEventListener("keydown", function(event){   
    
 if(event.key ==="Enter"){
